@@ -1,0 +1,1 @@
+The Nice or Mean Game is a console application where the user is asked a series of yes or no questions. Logic is used to determine from the player’s answers if they are nice or mean. After each game the user can elect to play again.
